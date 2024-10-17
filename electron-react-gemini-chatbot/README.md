@@ -1,7 +1,6 @@
 <h1 align="center">Gemini Chatbot</h1>
 
 <p align="center">
-  <img src="./google-bard-gemini-v2.webp" alt="Gemini Chatbot Logo" width="200">
 </p>
 
 <p align="center">
@@ -133,7 +132,6 @@ To build the desktop app for production:
 <h1 align="center">Gemini Chatbot</h1>
 
 <p align="center">
-  <img src="./google-bard-gemini-v2.webp" alt="Gemini Chatbot Logo" width="200">
 </p>
 
 <p align="center">
